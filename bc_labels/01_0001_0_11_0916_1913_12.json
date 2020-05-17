@@ -1,0 +1,39 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ka",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          11.389830508474574,
+          11.1864406779661
+        ],
+        [
+          163.4237288135593,
+          158.47457627118644
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "01_0001_0_11_0916_1913_12.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAAAAAAYQGIGAAAEDUlEQVR4nO2b23brIAxEoav//8uchziJMQLrMgPuWcxDkyZG7EjcLHBKW1tbW1tbW62yuUR5FSquws7apIpK+hIUm9H8KiPil+8VSpW30baQkWugfMb9mr3lbAiyZIauEaeIkafiVfUe+oQ1ldxDyWsgjfr5C5DpZzWASpsSp79B+esueR7DjinzmHngyu6R6D3glf4QDeHNx59y+VRlXDkdR0Hz+eW8vtDYVy8ZbJTvtVZT0bC+/oSllZ2yKpIvr+raTGtKB+S5zKcuZR/3rXeDrfJbKXO89Kyg5f+JlDjI+XNP7jSeXL+pL+PdYMmuzL2vTyDtfdMyyuaCEQkt4reQV6xRM165JtLHkUXpWAwMiqxdX2oxSZSdCpsYKzE5lPoBXYdJobSspVRdiEHpWQmNixIorSshBSae0r5cuw86nHIAqWqCYnk0pWvhextzMOUIcuDKO0wsJSZj0FqBUvrvjm8GdyRl5BZ+/DWQMpZnGDZN3Fo9OgSJ6QKTAWMdzir6mKiIAyAHV2IoCwKytlj9B6FEJVbPv6iyiaAE7gl2PgdQknaMzmbjlFDIjjPDlGBPyrkP/x7F1dK3GnwTiPlShBylWe4lOhO8viQlx0KU7aGA6sUnyZkRynmb1gFKuVFS5KccnQEJSQi5m7LXJsXvovJSjiCBOqpxUlIhW1s+ykme/MhFyYZszHnmcd4dXk8OX06FfFVmp5wBebVpppwf7mSnXAIZXbmxIC9HCo2Uhh1OpGyUiyBtlMtOQVooPT0H88MCvWdSvEsyUeobJZxfT7mq56Tkj/hUSD3l5P7tywWvjPfqExFaPZXSlbFeG3BfZpB5Vyva5kTc8TPe2xzNdkdOWkrxsC5UpX57QX1I77nZL3K0S3rXIe+P06SirH7c7FEopef78uUTOiVklWKmnBvwo7anR/ylZ1O+A2elJAVcNvv59Cm+HB/NfAqlgGl8jqJ03uukLXHdLrI+RzFr8Kn2gqtKw1lWpD5oV78Gd/HRYp2IuBfA+ypKzTFoqgA7KZLAHU5HuWJNeZanXc6PuZLyciJ2Nidq5xl2sSgt5bVlznUn8NwGUdAzMPErO/rvzxNNxLSN1/qDTtj8l82XbW29vo6drczWBCrRBtSZiKwBv3l6fqTKndBMvKePS+7k+tM1EkmnA6mYzvFysjv97UWC6j5iMLuPDytmuTNy1mBe6wzN48PWiZx9YvfjYtS1s5NB0bNZc1onIC6dzj542M0sSOu5c164EkieiJ5UwGSzUAfqe0Ll3LiYsMwg1Z3A/CURE5ll5WGCLZPu1dBPdHH8Cc+rK24o7cJn/2ecsocIviqi7KTAWydpvwfMSduVgnIS986AmMwdPpw7ufuQuXmztbW1tbX1N/QPwJq9MmTG3xYAAAAASUVORK5CYII=",
+  "imageHeight": 165,
+  "imageWidth": 165
+}
